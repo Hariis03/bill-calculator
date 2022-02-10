@@ -1,6 +1,6 @@
 # This is a basic Bill Calculator that splits the bill to x people, including tips.
 
-print("Welcome to the tip calculator!")
+print("Welcome to the bill calculator!")
 bill = input("What was the total bill? ")
 tip = input("How much tip would you like to give? 10, 12, 15? ")
 split = input("How many people to split the bill? ")
